@@ -1,0 +1,35 @@
+name: Retrieve latest Contributors
+
+on:
+  workflow_dispatch:
+  schedule:
+   # At 4am every night
+   - cron: '0 4 * * *'
+
+jobs:
+  main:
+    runs-on: ubuntu-latest
+    name: Fetch latest Contributors
+    steps:
+    - name: Get Contributors
+      id: getcontri
+      uses: openclimatefix/merge-all-contributors@v1.0.3
+      with:
+        orgName: ts-graphviz
+    - uses: actions/checkout@v3
+    - name: Write to file
+      run: |
+        echo '{"projectName":"contributors","projectOwner":"openclimatefix","repoType":"github","repoHost":"https://github.com/openclimatefix/contributors","files":["README.md"],"imageSize":100,"commit":true,"commitConvention":"gitmoji","contributors":${{steps.getcontri.outputs.contributors}},"contributorsPerLine":7}' > .all-contributorsrc-main
+    - name: Setup Node.js
+      uses: actions/setup-node@v3
+      with:
+        node-version: 16
+        cache: yarn
+    - name: Install dependencies
+      run: yarn install --frozen-lockfile
+    - name: Update README
+      run: yarn all-contributors --config .all-contributorsrc-main generate
+    - uses: stefanzweifel/git-auto-commit-action@v4
+      with:
+        # Required
+        commit_message: Add latest contributors

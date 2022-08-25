@@ -1,0 +1,15 @@
+{
+  "projectName": "ts-graphviz",
+  "projectOwner": "ts-graphviz",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "files": [
+    "profile/README.md"
+  ],
+  "imageSize": 100,
+  "badgeTemplate": "[![All Contributors](https://img.shields.io/badge/all_contributors-<%= contributors.length %>-orange.svg?style=flat)](#contributors)",
+  "commit": false,
+  "commitConvention": "none",
+  "contributors": [],
+  "contributorsPerLine": 7
+}
