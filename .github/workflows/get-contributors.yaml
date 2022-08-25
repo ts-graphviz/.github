@@ -12,14 +12,13 @@ jobs:
     name: Fetch latest Contributors
     steps:
     - name: Get Contributors
-      id: getcontri
+      id: contributors
       uses: openclimatefix/merge-all-contributors@v1.0.3
       with:
         orgName: ts-graphviz
     - uses: actions/checkout@v3
     - name: Write to file
-      run: |
-        echo '{"projectName":"contributors","projectOwner":"openclimatefix","repoType":"github","repoHost":"https://github.com/openclimatefix/contributors","files":["README.md"],"imageSize":100,"commit":true,"commitConvention":"gitmoji","contributors":${{steps.getcontri.outputs.contributors}},"contributorsPerLine":7}' > .all-contributorsrc-main
+      run: cat .all-contributorsrc | jq '.contributors = ${{steps.contributors.outputs.contributors}}' | sponge .all-contributorsrc
     - name: Setup Node.js
       uses: actions/setup-node@v3
       with:
