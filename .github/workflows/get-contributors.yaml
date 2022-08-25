@@ -17,6 +17,10 @@ jobs:
       with:
         orgName: ts-graphviz
     - uses: actions/checkout@v3
+    - run: |
+        apt-get update
+        apt-get install moreutils
+
     - name: Write to file
       run: cat .all-contributorsrc | jq '.contributors = ${{steps.contributors.outputs.contributors}}' | sponge .all-contributorsrc
     - name: Setup Node.js
