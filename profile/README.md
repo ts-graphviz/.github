@@ -4,6 +4,11 @@
 
 ## ts-graphviz Organization
 
+
+### Projects
+
+The TypeScript/JavaScript ecosystem provides a variety of OSS with the goal of making Graphviz more connected and easier to use.
+
 ### Contributors
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
@@ -38,3 +43,10 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
+
+
+### Financial Support
+
+Please support core member [kamiazya](https://github.com/sponsors/kamiazya).
+
+> **Note** Even just a dollar is enough motivation for me to develop 😊
