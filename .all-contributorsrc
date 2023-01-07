@@ -149,6 +149,36 @@
       ]
     },
     {
+      "login": "khaeru",
+      "name": "Paul Natsuo Kishimoto",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1634164?v=4",
+      "profile": "https://paul.kishimoto.name",
+      "contributions": [
+        "bug",
+        "research"
+      ]
+    },
+    {
+      "login": "jbms",
+      "name": "Jeremy Maitin-Shepard",
+      "avatar_url": "https://avatars.githubusercontent.com/u/4211946?v=4",
+      "profile": "https://github.com/jbms",
+      "contributions": [
+        "bug",
+        "ideas"
+      ]
+    },
+    {
+      "login": "mvrueden",
+      "name": "mvrueden",
+      "avatar_url": "https://avatars.githubusercontent.com/u/4202259?v=4",
+      "profile": "https://github.com/mvrueden",
+      "contributions": [
+        "bug",
+        "code"
+      ]
+    },
+    {
       "login": "thewilkybarkid",
       "name": "Chris Wilkinson",
       "avatar_url": "https://avatars.githubusercontent.com/u/1784740?v=4",
