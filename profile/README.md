@@ -1,5 +1,5 @@
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-19-orange.svg?style=flat)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-20-orange.svg?style=flat)](#contributors)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## ts-graphviz Organization
@@ -39,6 +39,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://paul.kishimoto.name"><img src="https://avatars.githubusercontent.com/u/1634164?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Paul Natsuo Kishimoto</b></sub></a><br /><a href="https://github.com/ts-graphviz/ts-graphviz/issues?q=author%3Akhaeru" title="Bug reports">🐛</a> <a href="#research-khaeru" title="Research">🔬</a></td>
     <td align="center"><a href="https://github.com/jbms"><img src="https://avatars.githubusercontent.com/u/4211946?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Jeremy Maitin-Shepard</b></sub></a><br /><a href="https://github.com/ts-graphviz/ts-graphviz/issues?q=author%3Ajbms" title="Bug reports">🐛</a> <a href="#ideas-jbms" title="Ideas, Planning, & Feedback">🤔</a></td>
     <td align="center"><a href="https://github.com/mvrueden"><img src="https://avatars.githubusercontent.com/u/4202259?v=4?s=100" width="100px;" alt=""/><br /><sub><b>mvrueden</b></sub></a><br /><a href="https://github.com/ts-graphviz/ts-graphviz/issues?q=author%3Amvrueden" title="Bug reports">🐛</a> <a href="https://github.com/ts-graphviz/ts-graphviz/commits?author=mvrueden" title="Code">💻</a></td>
+    <td align="center"><a href="https://dhimmel.com"><img src="https://avatars.githubusercontent.com/u/1117703?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Daniel Himmelstein</b></sub></a><br /><a href="#question-dhimmel" title="Answering Questions">💬</a></td>
     <td align="center"><a href="https://thewilkybarkid.dev"><img src="https://avatars.githubusercontent.com/u/1784740?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Chris Wilkinson</b></sub></a><br /><a href="https://github.com/ts-graphviz/ts-graphviz/issues?q=author%3Athewilkybarkid" title="Bug reports">🐛</a></td>
     <td align="center"><a href="http://safareli.github.io/resume/"><img src="https://avatars.githubusercontent.com/u/1932383?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Irakli Safareli</b></sub></a><br /><a href="#ideas-safareli" title="Ideas, Planning, & Feedback">🤔</a></td>
   </tr>
