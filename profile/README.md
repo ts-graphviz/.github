@@ -1,5 +1,5 @@
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-20-orange.svg?style=flat)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-21-orange.svg?style=flat)](#contributors)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## ts-graphviz Organization
@@ -27,15 +27,16 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/diegoquinteiro"><img src="https://avatars.githubusercontent.com/u/1878108?v=4?s=100" width="100px;" alt=""/><br /><sub><b>diegoquinteiro</b></sub></a><br /><a href="https://github.com/ts-graphviz/ts-graphviz/issues?q=author%3Adiegoquinteiro" title="Bug reports">🐛</a></td>
   </tr>
   <tr>
+    <td align="center"><a href="https://github.com/robross0606"><img src="https://avatars.githubusercontent.com/u/2965467?v=4?s=100" width="100px;" alt=""/><br /><sub><b>robross0606</b></sub></a><br /><a href="#ideas-robross0606" title="Ideas, Planning, & Feedback">🤔</a></td>
     <td align="center"><a href="https://github.com/nagasawaryoya"><img src="https://avatars.githubusercontent.com/u/53528726?v=4?s=100" width="100px;" alt=""/><br /><sub><b>nagasawaryoya</b></sub></a><br /><a href="https://github.com/ts-graphviz/ts-graphviz/commits?author=nagasawaryoya" title="Code">💻</a> <a href="https://github.com/ts-graphviz/ts-graphviz/commits?author=nagasawaryoya" title="Tests">⚠️</a></td>
     <td align="center"><a href="https://github.com/tokidrill"><img src="https://avatars.githubusercontent.com/u/42460318?v=4?s=100" width="100px;" alt=""/><br /><sub><b>YukiSasaki</b></sub></a><br /><a href="https://github.com/ts-graphviz/ts-graphviz/commits?author=tokidrill" title="Code">💻</a> <a href="https://github.com/ts-graphviz/ts-graphviz/commits?author=tokidrill" title="Tests">⚠️</a></td>
     <td align="center"><a href="https://github.com/mhtb32"><img src="https://avatars3.githubusercontent.com/u/24754239?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Mohammad Hussein Tavakoli Bina </b></sub></a><br /><a href="#ideas-mhtb32" title="Ideas, Planning, & Feedback">🤔</a></td>
     <td align="center"><a href="https://smcleod.net"><img src="https://avatars.githubusercontent.com/u/862951?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Sam</b></sub></a><br /><a href="#maintenance-sammcj" title="Maintenance">🚧</a></td>
     <td align="center"><a href="https://github.com/mohawk2"><img src="https://avatars.githubusercontent.com/u/7308181?v=4?s=100" width="100px;" alt=""/><br /><sub><b>mohawk2</b></sub></a><br /><a href="https://github.com/ts-graphviz/ts-graphviz/issues?q=author%3Amohawk2" title="Bug reports">🐛</a> <a href="#ideas-mohawk2" title="Ideas, Planning, & Feedback">🤔</a></td>
     <td align="center"><a href="https://github.com/leadelngalame1611"><img src="https://avatars.githubusercontent.com/u/39901966?v=4?s=100" width="100px;" alt=""/><br /><sub><b>leadelngalame1611</b></sub></a><br /><a href="https://github.com/ts-graphviz/ts-graphviz/issues?q=author%3Aleadelngalame1611" title="Bug reports">🐛</a> <a href="#ideas-leadelngalame1611" title="Ideas, Planning, & Feedback">🤔</a></td>
-    <td align="center"><a href="https://github.com/stunney"><img src="https://avatars.githubusercontent.com/u/609012?v=4?s=100" width="100px;" alt=""/><br /><sub><b>S. Tunney</b></sub></a><br /><a href="#ideas-stunney" title="Ideas, Planning, & Feedback">🤔</a></td>
   </tr>
   <tr>
+    <td align="center"><a href="https://github.com/stunney"><img src="https://avatars.githubusercontent.com/u/609012?v=4?s=100" width="100px;" alt=""/><br /><sub><b>S. Tunney</b></sub></a><br /><a href="#ideas-stunney" title="Ideas, Planning, & Feedback">🤔</a></td>
     <td align="center"><a href="https://paul.kishimoto.name"><img src="https://avatars.githubusercontent.com/u/1634164?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Paul Natsuo Kishimoto</b></sub></a><br /><a href="https://github.com/ts-graphviz/ts-graphviz/issues?q=author%3Akhaeru" title="Bug reports">🐛</a> <a href="#research-khaeru" title="Research">🔬</a></td>
     <td align="center"><a href="https://github.com/jbms"><img src="https://avatars.githubusercontent.com/u/4211946?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Jeremy Maitin-Shepard</b></sub></a><br /><a href="https://github.com/ts-graphviz/ts-graphviz/issues?q=author%3Ajbms" title="Bug reports">🐛</a> <a href="#ideas-jbms" title="Ideas, Planning, & Feedback">🤔</a></td>
     <td align="center"><a href="https://github.com/mvrueden"><img src="https://avatars.githubusercontent.com/u/4202259?v=4?s=100" width="100px;" alt=""/><br /><sub><b>mvrueden</b></sub></a><br /><a href="https://github.com/ts-graphviz/ts-graphviz/issues?q=author%3Amvrueden" title="Bug reports">🐛</a> <a href="https://github.com/ts-graphviz/ts-graphviz/commits?author=mvrueden" title="Code">💻</a></td>
