@@ -136,6 +136,15 @@
       ]
     },
     {
+      "login": "trevor-scheer",
+      "name": "Trevor Scheer",
+      "avatar_url": "https://avatars.githubusercontent.com/u/29644393?v=4",
+      "profile": "https://github.com/trevor-scheer",
+      "contributions": [
+        "a11y"
+      ]
+    },
+    {
       "login": "nagasawaryoya",
       "name": "nagasawaryoya",
       "avatar_url": "https://avatars.githubusercontent.com/u/53528726?v=4",
@@ -239,6 +248,16 @@
       "profile": "https://dhimmel.com",
       "contributions": [
         "question"
+      ]
+    },
+    {
+      "login": "deining",
+      "name": "Andreas Deininger",
+      "avatar_url": "https://avatars.githubusercontent.com/u/18169566?v=4",
+      "profile": "https://github.com/deining",
+      "contributions": [
+        "doc",
+        "maintenance"
       ]
     },
     {
