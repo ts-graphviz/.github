@@ -1,8 +1,8 @@
 # These are supported funding model platforms
 
 github:
-  - ts-graphviz
   - kamiazya
+  - ts-graphviz
 patreon: # Replace with a single Patreon username
 open_collective: # Replace with a single Open Collective username
 ko_fi: kamiazya # Replace with a single Ko-fi username
