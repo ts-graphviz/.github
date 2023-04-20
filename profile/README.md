@@ -65,6 +65,10 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 
 ### Financial Support
 
-Please support core member [kamiazya](https://github.com/sponsors/kamiazya).
+Please support [ts-graphviz](https://github.com/sponsors/ts-graphviz).
 
-> **Note** Even just a dollar is enough motivation for me to develop 😊
+Our goal for ts-graphviz is to attract 10 sponsors who can provide ongoing support to help cover development and maintenance costs,
+and help us continue expanding and improving the library. By achieving this goal, we can ensure that ts-graphviz remains a valuable resource
+for developers who need to analyze and visualize complex graph structures, while also fostering a strong and supportive community of users and sponsors.
+
+> **Note** Even just a dollar is enough motivation to develop 😊
