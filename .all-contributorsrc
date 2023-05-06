@@ -277,6 +277,15 @@
       "contributions": [
         "ideas"
       ]
+    },
+    {
+      "login": "thought2",
+      "name": "Michael Bock",
+      "avatar_url": "https://avatars.githubusercontent.com/u/18749447?v=4",
+      "profile": "https://github.com/thought2",
+      "contributions": [
+        "bug"
+      ]
     }
   ],
   "contributorsPerLine": 7
