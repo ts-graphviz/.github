@@ -1,5 +1,5 @@
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-29-orange.svg?style=flat)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-30-orange.svg?style=flat)](#contributors)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## ts-graphviz Organization
@@ -55,6 +55,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/thought2"><img src="https://avatars.githubusercontent.com/u/18749447?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Michael Bock</b></sub></a><br /><a href="https://github.com/ts-graphviz/ts-graphviz/issues?q=author%3Athought2" title="Bug reports">🐛</a></td>
+    <td align="center"><a href="https://integritis.io"><img src="https://avatars.githubusercontent.com/u/63944640?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Integritis Inc.</b></sub></a><br /><a href="#financial-integritis" title="Financial">💵</a></td>
   </tr>
 </table>
 
