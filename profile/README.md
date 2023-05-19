@@ -9,6 +9,10 @@
 
 The TypeScript/JavaScript ecosystem provides a variety of OSS with the goal of making Graphviz more connected and easier to use.
 
+### Sponsors
+
+![Sponsors](https://github.com/ts-graphviz/sponsors/raw/main/sponsorkit/sponsors.svg)
+
 ### Contributors
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
