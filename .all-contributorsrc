@@ -271,6 +271,62 @@
       ]
     },
     {
+      "login": "joshstrohminger",
+      "name": "Joshua Strohminger",
+      "avatar_url": "https://avatars.githubusercontent.com/u/17883887?v=4",
+      "profile": "http://devmonstr.com",
+      "contributions": [
+        "code",
+        "maintenance"
+      ]
+    },
+    {
+      "login": "2bndy5",
+      "name": "Brendan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/14963867?v=4",
+      "profile": "https://github.com/2bndy5",
+      "contributions": [
+        "maintenance"
+      ]
+    },
+    {
+      "login": "glatterf42",
+      "name": "Fridolin Glatter",
+      "avatar_url": "https://avatars.githubusercontent.com/u/83776373?v=4",
+      "profile": "https://github.com/glatterf42",
+      "contributions": [
+        "maintenance"
+      ]
+    },
+    {
+      "login": "Maetveis",
+      "name": "Mészáros Gergely",
+      "avatar_url": "https://avatars.githubusercontent.com/u/8176760?v=4",
+      "profile": "https://github.com/Maetveis",
+      "contributions": [
+        "bug",
+        "test"
+      ]
+    },
+    {
+      "login": "XF-FW",
+      "name": "Xavier Francisco",
+      "avatar_url": "https://avatars.githubusercontent.com/u/98830734?v=4",
+      "profile": "https://github.com/XF-FW",
+      "contributions": [
+        "ideas"
+      ]
+    },
+    {
+      "login": "stinodego",
+      "name": "Stijn de Gooijer",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3502351?v=4",
+      "profile": "https://github.com/stinodego",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
       "login": "thewilkybarkid",
       "name": "Chris Wilkinson",
       "avatar_url": "https://avatars.githubusercontent.com/u/1784740?v=4",
