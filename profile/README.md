@@ -7,7 +7,7 @@
 
 ### Projects
 
-The TypeScript/JavaScript ecosystem provides a variety of OSS with the goal of making Graphviz more connected and easier to use.
+We provide various software and libraries such as OSS to make Graphviz easier to use for the TypeScript/JavaScript ecosystem.
 
 ### Sponsors
 
@@ -84,7 +84,7 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 
 Please support [ts-graphviz](https://github.com/sponsors/ts-graphviz).
 
-Our goal for ts-graphviz is to attract 10 sponsors who can provide ongoing support to help cover development and maintenance costs,
+Our goal for ts-graphviz is to attract sponsors who can provide ongoing support to help cover development and maintenance costs,
 and help us continue expanding and improving the library. By achieving this goal, we can ensure that ts-graphviz remains a valuable resource
 for developers who need to analyze and visualize complex graph structures, while also fostering a strong and supportive community of users and sponsors.
 
