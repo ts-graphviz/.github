@@ -1,5 +1,5 @@
 ![GitHub Org's stars](https://img.shields.io/github/stars/ts-graphviz) <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-40-orange.svg?style=flat)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-41-orange.svg?style=flat)](#contributors)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## ts-graphviz Organization
@@ -68,6 +68,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   </tr>
   <tr>
     <td align="center"><a href="https://vkottler.github.io/"><img src="https://avatars.githubusercontent.com/u/15205052?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Vaughn Kottler</b></sub></a><br /><a href="https://github.com/ts-graphviz/ts-graphviz/issues?q=author%3Avkottler" title="Bug reports">🐛</a></td>
+    <td align="center"><a href="https://github.com/gpaulfleetwood"><img src="https://avatars.githubusercontent.com/u/56100336?v=4?s=100" width="100px;" alt=""/><br /><sub><b>gpaulfleetwood</b></sub></a><br /><a href="https://github.com/ts-graphviz/ts-graphviz/issues?q=author%3Agpaulfleetwood" title="Bug reports">🐛</a></td>
     <td align="center"><a href="https://thewilkybarkid.dev"><img src="https://avatars.githubusercontent.com/u/1784740?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Chris Wilkinson</b></sub></a><br /><a href="https://github.com/ts-graphviz/ts-graphviz/issues?q=author%3Athewilkybarkid" title="Bug reports">🐛</a></td>
     <td align="center"><a href="http://safareli.github.io/resume/"><img src="https://avatars.githubusercontent.com/u/1932383?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Irakli Safareli</b></sub></a><br /><a href="#ideas-safareli" title="Ideas, Planning, & Feedback">🤔</a></td>
     <td align="center"><a href="https://github.com/thought2"><img src="https://avatars.githubusercontent.com/u/18749447?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Michael Bock</b></sub></a><br /><a href="https://github.com/ts-graphviz/ts-graphviz/issues?q=author%3Athought2" title="Bug reports">🐛</a></td>
