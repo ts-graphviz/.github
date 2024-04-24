@@ -327,6 +327,33 @@
       ]
     },
     {
+      "login": "jakebeal",
+      "name": "Jacob Beal",
+      "avatar_url": "https://avatars.githubusercontent.com/u/10675899?v=4",
+      "profile": "http://jakebeal.com",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "mrbuslov",
+      "name": "Dmitry Buslov",
+      "avatar_url": "https://avatars.githubusercontent.com/u/68155915?v=4",
+      "profile": "https://github.com/mrbuslov",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "vkottler",
+      "name": "Vaughn Kottler",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15205052?v=4",
+      "profile": "https://vkottler.github.io/",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
       "login": "thewilkybarkid",
       "name": "Chris Wilkinson",
       "avatar_url": "https://avatars.githubusercontent.com/u/1784740?v=4",

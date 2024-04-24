@@ -1,5 +1,5 @@
 ![GitHub Org's stars](https://img.shields.io/github/stars/ts-graphviz) <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-37-orange.svg?style=flat)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-40-orange.svg?style=flat)](#contributors)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## ts-graphviz Organization
@@ -63,10 +63,13 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/Maetveis"><img src="https://avatars.githubusercontent.com/u/8176760?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Mészáros Gergely</b></sub></a><br /><a href="https://github.com/ts-graphviz/ts-graphviz/issues?q=author%3AMaetveis" title="Bug reports">🐛</a> <a href="https://github.com/ts-graphviz/ts-graphviz/commits?author=Maetveis" title="Tests">⚠️</a></td>
     <td align="center"><a href="https://github.com/XF-FW"><img src="https://avatars.githubusercontent.com/u/98830734?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Xavier Francisco</b></sub></a><br /><a href="#ideas-XF-FW" title="Ideas, Planning, & Feedback">🤔</a></td>
     <td align="center"><a href="https://github.com/stinodego"><img src="https://avatars.githubusercontent.com/u/3502351?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Stijn de Gooijer</b></sub></a><br /><a href="https://github.com/ts-graphviz/ts-graphviz/issues?q=author%3Astinodego" title="Bug reports">🐛</a></td>
-    <td align="center"><a href="https://thewilkybarkid.dev"><img src="https://avatars.githubusercontent.com/u/1784740?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Chris Wilkinson</b></sub></a><br /><a href="https://github.com/ts-graphviz/ts-graphviz/issues?q=author%3Athewilkybarkid" title="Bug reports">🐛</a></td>
-    <td align="center"><a href="http://safareli.github.io/resume/"><img src="https://avatars.githubusercontent.com/u/1932383?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Irakli Safareli</b></sub></a><br /><a href="#ideas-safareli" title="Ideas, Planning, & Feedback">🤔</a></td>
+    <td align="center"><a href="http://jakebeal.com"><img src="https://avatars.githubusercontent.com/u/10675899?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Jacob Beal</b></sub></a><br /><a href="https://github.com/ts-graphviz/ts-graphviz/issues?q=author%3Ajakebeal" title="Bug reports">🐛</a></td>
+    <td align="center"><a href="https://github.com/mrbuslov"><img src="https://avatars.githubusercontent.com/u/68155915?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Dmitry Buslov</b></sub></a><br /><a href="https://github.com/ts-graphviz/ts-graphviz/issues?q=author%3Amrbuslov" title="Bug reports">🐛</a></td>
   </tr>
   <tr>
+    <td align="center"><a href="https://vkottler.github.io/"><img src="https://avatars.githubusercontent.com/u/15205052?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Vaughn Kottler</b></sub></a><br /><a href="https://github.com/ts-graphviz/ts-graphviz/issues?q=author%3Avkottler" title="Bug reports">🐛</a></td>
+    <td align="center"><a href="https://thewilkybarkid.dev"><img src="https://avatars.githubusercontent.com/u/1784740?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Chris Wilkinson</b></sub></a><br /><a href="https://github.com/ts-graphviz/ts-graphviz/issues?q=author%3Athewilkybarkid" title="Bug reports">🐛</a></td>
+    <td align="center"><a href="http://safareli.github.io/resume/"><img src="https://avatars.githubusercontent.com/u/1932383?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Irakli Safareli</b></sub></a><br /><a href="#ideas-safareli" title="Ideas, Planning, & Feedback">🤔</a></td>
     <td align="center"><a href="https://github.com/thought2"><img src="https://avatars.githubusercontent.com/u/18749447?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Michael Bock</b></sub></a><br /><a href="https://github.com/ts-graphviz/ts-graphviz/issues?q=author%3Athought2" title="Bug reports">🐛</a></td>
     <td align="center"><a href="https://integritis.io"><img src="https://avatars.githubusercontent.com/u/63944640?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Integritis Inc.</b></sub></a><br /><a href="#financial-integritis" title="Financial">💵</a></td>
   </tr>
