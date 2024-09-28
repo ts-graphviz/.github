@@ -1,5 +1,5 @@
 ![GitHub Org's stars](https://img.shields.io/github/stars/ts-graphviz) <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-41-orange.svg?style=flat)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-44-orange.svg?style=flat)](#contributors)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## ts-graphviz Organization
@@ -39,34 +39,39 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://pre.ms"><img src="https://avatars.githubusercontent.com/u/238277?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Prem Pillai</b></sub></a><br /><a href="https://github.com/ts-graphviz/ts-graphviz/issues?q=author%3Acloud-on-prem" title="Bug reports">🐛</a></td>
     <td align="center"><a href="https://github.com/nagasawaryoya"><img src="https://avatars.githubusercontent.com/u/53528726?v=4?s=100" width="100px;" alt=""/><br /><sub><b>nagasawaryoya</b></sub></a><br /><a href="https://github.com/ts-graphviz/ts-graphviz/commits?author=nagasawaryoya" title="Code">💻</a> <a href="https://github.com/ts-graphviz/ts-graphviz/commits?author=nagasawaryoya" title="Tests">⚠️</a> <a href="#financial-nagasawaryoya" title="Financial">💵</a></td>
     <td align="center"><a href="https://github.com/tokidrill"><img src="https://avatars.githubusercontent.com/u/42460318?v=4?s=100" width="100px;" alt=""/><br /><sub><b>YukiSasaki</b></sub></a><br /><a href="https://github.com/ts-graphviz/ts-graphviz/commits?author=tokidrill" title="Code">💻</a> <a href="https://github.com/ts-graphviz/ts-graphviz/commits?author=tokidrill" title="Tests">⚠️</a></td>
+    <td align="center"><a href="https://github.com/Madd0g"><img src="https://avatars.githubusercontent.com/u/1171003?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Madd0g</b></sub></a><br /><a href="https://github.com/ts-graphviz/ts-graphviz/issues?q=author%3AMadd0g" title="Bug reports">🐛</a></td>
+    <td align="center"><a href="https://github.com/j4k0xb"><img src="https://avatars.githubusercontent.com/u/55899582?v=4?s=100" width="100px;" alt=""/><br /><sub><b>j4k0xb</b></sub></a><br /><a href="https://github.com/ts-graphviz/ts-graphviz/issues?q=author%3Aj4k0xb" title="Bug reports">🐛</a></td>
+    <td align="center"><a href="https://github.com/haved"><img src="https://avatars.githubusercontent.com/u/3748845?v=4?s=100" width="100px;" alt=""/><br /><sub><b>HKrogstie</b></sub></a><br /><a href="https://github.com/ts-graphviz/ts-graphviz/issues?q=author%3Ahaved" title="Bug reports">🐛</a></td>
     <td align="center"><a href="https://github.com/mhtb32"><img src="https://avatars3.githubusercontent.com/u/24754239?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Mohammad Hussein Tavakoli Bina </b></sub></a><br /><a href="#ideas-mhtb32" title="Ideas, Planning, & Feedback">🤔</a></td>
+  </tr>
+  <tr>
     <td align="center"><a href="https://smcleod.net"><img src="https://avatars.githubusercontent.com/u/862951?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Sam</b></sub></a><br /><a href="#maintenance-sammcj" title="Maintenance">🚧</a></td>
     <td align="center"><a href="https://github.com/mohawk2"><img src="https://avatars.githubusercontent.com/u/7308181?v=4?s=100" width="100px;" alt=""/><br /><sub><b>mohawk2</b></sub></a><br /><a href="https://github.com/ts-graphviz/ts-graphviz/issues?q=author%3Amohawk2" title="Bug reports">🐛</a> <a href="#ideas-mohawk2" title="Ideas, Planning, & Feedback">🤔</a></td>
     <td align="center"><a href="https://github.com/leadelngalame1611"><img src="https://avatars.githubusercontent.com/u/39901966?v=4?s=100" width="100px;" alt=""/><br /><sub><b>leadelngalame1611</b></sub></a><br /><a href="https://github.com/ts-graphviz/ts-graphviz/issues?q=author%3Aleadelngalame1611" title="Bug reports">🐛</a> <a href="#ideas-leadelngalame1611" title="Ideas, Planning, & Feedback">🤔</a></td>
-  </tr>
-  <tr>
     <td align="center"><a href="https://github.com/stunney"><img src="https://avatars.githubusercontent.com/u/609012?v=4?s=100" width="100px;" alt=""/><br /><sub><b>S. Tunney</b></sub></a><br /><a href="#ideas-stunney" title="Ideas, Planning, & Feedback">🤔</a></td>
     <td align="center"><a href="https://paul.kishimoto.name"><img src="https://avatars.githubusercontent.com/u/1634164?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Paul Natsuo Kishimoto</b></sub></a><br /><a href="https://github.com/ts-graphviz/ts-graphviz/issues?q=author%3Akhaeru" title="Bug reports">🐛</a> <a href="#research-khaeru" title="Research">🔬</a></td>
     <td align="center"><a href="https://github.com/jbms"><img src="https://avatars.githubusercontent.com/u/4211946?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Jeremy Maitin-Shepard</b></sub></a><br /><a href="https://github.com/ts-graphviz/ts-graphviz/issues?q=author%3Ajbms" title="Bug reports">🐛</a> <a href="#ideas-jbms" title="Ideas, Planning, & Feedback">🤔</a></td>
     <td align="center"><a href="https://github.com/mvrueden"><img src="https://avatars.githubusercontent.com/u/4202259?v=4?s=100" width="100px;" alt=""/><br /><sub><b>mvrueden</b></sub></a><br /><a href="https://github.com/ts-graphviz/ts-graphviz/issues?q=author%3Amvrueden" title="Bug reports">🐛</a> <a href="https://github.com/ts-graphviz/ts-graphviz/commits?author=mvrueden" title="Code">💻</a></td>
+  </tr>
+  <tr>
     <td align="center"><a href="https://dhimmel.com"><img src="https://avatars.githubusercontent.com/u/1117703?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Daniel Himmelstein</b></sub></a><br /><a href="#question-dhimmel" title="Answering Questions">💬</a></td>
     <td align="center"><a href="https://github.com/deining"><img src="https://avatars.githubusercontent.com/u/18169566?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Andreas Deininger</b></sub></a><br /><a href="https://github.com/ts-graphviz/ts-graphviz/commits?author=deining" title="Documentation">📖</a> <a href="#maintenance-deining" title="Maintenance">🚧</a></td>
     <td align="center"><a href="http://devmonstr.com"><img src="https://avatars.githubusercontent.com/u/17883887?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Joshua Strohminger</b></sub></a><br /><a href="https://github.com/ts-graphviz/ts-graphviz/commits?author=joshstrohminger" title="Code">💻</a> <a href="#maintenance-joshstrohminger" title="Maintenance">🚧</a></td>
-  </tr>
-  <tr>
     <td align="center"><a href="https://github.com/2bndy5"><img src="https://avatars.githubusercontent.com/u/14963867?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Brendan</b></sub></a><br /><a href="#maintenance-2bndy5" title="Maintenance">🚧</a></td>
     <td align="center"><a href="https://github.com/glatterf42"><img src="https://avatars.githubusercontent.com/u/83776373?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Fridolin Glatter</b></sub></a><br /><a href="#maintenance-glatterf42" title="Maintenance">🚧</a></td>
     <td align="center"><a href="https://github.com/Maetveis"><img src="https://avatars.githubusercontent.com/u/8176760?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Mészáros Gergely</b></sub></a><br /><a href="https://github.com/ts-graphviz/ts-graphviz/issues?q=author%3AMaetveis" title="Bug reports">🐛</a> <a href="https://github.com/ts-graphviz/ts-graphviz/commits?author=Maetveis" title="Tests">⚠️</a></td>
     <td align="center"><a href="https://github.com/XF-FW"><img src="https://avatars.githubusercontent.com/u/98830734?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Xavier Francisco</b></sub></a><br /><a href="#ideas-XF-FW" title="Ideas, Planning, & Feedback">🤔</a></td>
+  </tr>
+  <tr>
     <td align="center"><a href="https://github.com/stinodego"><img src="https://avatars.githubusercontent.com/u/3502351?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Stijn de Gooijer</b></sub></a><br /><a href="https://github.com/ts-graphviz/ts-graphviz/issues?q=author%3Astinodego" title="Bug reports">🐛</a></td>
     <td align="center"><a href="http://jakebeal.com"><img src="https://avatars.githubusercontent.com/u/10675899?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Jacob Beal</b></sub></a><br /><a href="https://github.com/ts-graphviz/ts-graphviz/issues?q=author%3Ajakebeal" title="Bug reports">🐛</a></td>
     <td align="center"><a href="https://github.com/mrbuslov"><img src="https://avatars.githubusercontent.com/u/68155915?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Dmitry Buslov</b></sub></a><br /><a href="https://github.com/ts-graphviz/ts-graphviz/issues?q=author%3Amrbuslov" title="Bug reports">🐛</a></td>
-  </tr>
-  <tr>
     <td align="center"><a href="https://vkottler.github.io/"><img src="https://avatars.githubusercontent.com/u/15205052?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Vaughn Kottler</b></sub></a><br /><a href="https://github.com/ts-graphviz/ts-graphviz/issues?q=author%3Avkottler" title="Bug reports">🐛</a></td>
     <td align="center"><a href="https://github.com/gpaulfleetwood"><img src="https://avatars.githubusercontent.com/u/56100336?v=4?s=100" width="100px;" alt=""/><br /><sub><b>gpaulfleetwood</b></sub></a><br /><a href="https://github.com/ts-graphviz/ts-graphviz/issues?q=author%3Agpaulfleetwood" title="Bug reports">🐛</a></td>
     <td align="center"><a href="https://thewilkybarkid.dev"><img src="https://avatars.githubusercontent.com/u/1784740?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Chris Wilkinson</b></sub></a><br /><a href="https://github.com/ts-graphviz/ts-graphviz/issues?q=author%3Athewilkybarkid" title="Bug reports">🐛</a></td>
     <td align="center"><a href="http://safareli.github.io/resume/"><img src="https://avatars.githubusercontent.com/u/1932383?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Irakli Safareli</b></sub></a><br /><a href="#ideas-safareli" title="Ideas, Planning, & Feedback">🤔</a></td>
+  </tr>
+  <tr>
     <td align="center"><a href="https://github.com/thought2"><img src="https://avatars.githubusercontent.com/u/18749447?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Michael Bock</b></sub></a><br /><a href="https://github.com/ts-graphviz/ts-graphviz/issues?q=author%3Athought2" title="Bug reports">🐛</a></td>
     <td align="center"><a href="https://integritis.io"><img src="https://avatars.githubusercontent.com/u/63944640?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Integritis Inc.</b></sub></a><br /><a href="#financial-integritis" title="Financial">💵</a></td>
   </tr>
