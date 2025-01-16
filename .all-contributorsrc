@@ -202,6 +202,26 @@
       ]
     },
     {
+      "login": "septatrix",
+      "name": "Nils K",
+      "avatar_url": "https://avatars.githubusercontent.com/u/24257556?v=4",
+      "profile": "https://github.com/septatrix",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "hao2013",
+      "name": "hao2013",
+      "avatar_url": "https://avatars.githubusercontent.com/u/67059492?v=4",
+      "profile": "https://github.com/hao2013",
+      "contributions": [
+        "maintenance",
+        "review",
+        "translation"
+      ]
+    },
+    {
       "login": "mhtb32",
       "name": "Mohammad Hussein Tavakoli Bina ",
       "avatar_url": "https://avatars3.githubusercontent.com/u/24754239?v=4",
@@ -423,6 +443,18 @@
       "profile": "https://integritis.io",
       "contributions": [
         "financial"
+      ]
+    },
+    {
+      "login": "kamiazya",
+      "name": "Yuki Yamazaki",
+      "avatar_url": "https://avatars.githubusercontent.com/u/35218186?v=4",
+      "profile": "https://github.com/kamiazya",
+      "contributions": [
+        "content",
+        "doc",
+        "blog",
+        "maintenance"
       ]
     }
   ],
